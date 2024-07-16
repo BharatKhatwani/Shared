@@ -1,0 +1,21 @@
+.hero-container {
+    text-align: center; /* Center align text within the container */
+  }
+  
+  .name {
+    font-size: 30px; /* Set font size to 30 pixels */
+    /* Additional styles for the name can be added as needed */
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  .hero-img {
+    width: 750px; /* Set width of the image */
+    height: auto; /* Maintain aspect ratio */
+    
+  }
+  
